@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?section=header&type=rect&color=0:e55d87,100:5fc3e4&height=30)
 <h2>👋 Hello World!</h2>
 
-I'm Donggyu Yoon, an undergraduate student studying Computer Science!
+I am Donggyu Yoon, an undergraduate student studying Computer Science!
 
 ### 📍 My Profile
 
