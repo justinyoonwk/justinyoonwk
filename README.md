@@ -8,7 +8,8 @@ I'm Donggyu Yoon, a master's student in Computer Science!
 <ul>
   <li><a href="https://kaist.ac.kr/">Korea Advanced Institute of Science and Technology (KAIST)</a> 
     <ul>
-      <li> Undergraduate Student (2020-) </li>
+      <li> Undergraduate Student (2020-2025) </li>
+      <li> Master's Student (2025-) </li>
       <li> <a href="https://cs.kaist.ac.kr/">School of Computing</a> (2020-) </li>
     </ul>
   </li>
